@@ -32,5 +32,5 @@ O projeto contém as seguintes classes:
 1. Compile e execute a classe `Contador.java` em seu ambiente de desenvolvimento Java.
 2. Siga as instruções no terminal para fornecer os dois parâmetros.
 
-## Exemplo de Uso
+
 
